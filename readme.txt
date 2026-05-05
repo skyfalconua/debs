@@ -1,4 +1,6 @@
-automate creation of deb packages
+automate creation of deb packages 
+
+used to install in empty dev environment
 
 cd [appname]
 
